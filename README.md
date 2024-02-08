@@ -19,7 +19,7 @@ To view the website locally or make modifications, follow these steps:
 3) Make modifications as needed using your preferred code editor.
 
 Deployment:
-The website is deployed and accessible at [insert deployment link].
+The website is deployed and accessible at https://shashanksp-portfolio.netlify.app/.
 
 Contributions:
 Contributions are welcome! If you'd like to contribute to the improvement of this portfolio website, please follow these guidelines
